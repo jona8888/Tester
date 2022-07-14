@@ -1,0 +1,4 @@
+
+print("Enter name: ", end = "")
+name = input()
+print("Hello, ", name)
